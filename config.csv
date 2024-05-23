@@ -1,0 +1,20 @@
+sr,var,value
+1,company_name,LW Tech
+2,English_Before_ID,Agent
+3,First_ID,4
+4,Last_ID,25
+5,Dialer_link,https://revolution.primodialler.io
+6,PassWord,Agent4
+7,Transfer_Procedure(cannot_be_NULL),2
+8,page1,yes
+9,page2,yes
+10,page3,yes
+11,Preset(0_1_2_3_4_cannot_be_NULL),0
+12,Campain,2
+13,Active_New_IDS,yes
+14,Scrap_Macs,no
+,for_scrap_Mac_only company_name_dialer_startingID_EndingID_is_needed_else_put_dummy_data,
+,########################################################,
+-----------------------+-----------+------------------
+-----------------------|  THE END  |------------------
+-----------------------+-----------+------------------
